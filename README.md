@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🇨🇳This is Shuangben Chen from Yuanpei College of Peking University.
+
+🕙 PKU Undergraduates 2025-2029
+🌱 Currently learning AI (mainly Embodied AI)
+🤔 Willing to know about anything cool and SCI-FI!
+
+Contact me via: shuangbenchen25@gmail.com
+
 <!--
 **shuangbenchen25/shuangbenchen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
