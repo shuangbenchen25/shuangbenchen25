@@ -3,7 +3,7 @@
 🇨🇳This is Shuangben Chen from Yuanpei College of Peking University.
 
 - 🕙 PKU Undergraduate 2025-2029
-- 🌱 Currently learning AI (mainly Embodied AI)
+- 🌱 Currently learning AI
 - 🤔 Willing to know about anything cool and fantastic!
 
 Contact me via: shuangbenchen25@gmail.com
