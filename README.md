@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-🇨🇳This is Shuangben Chen from Yuanpei College of Peking University.
+🇨🇳This is Shuangben Chen from Yuanpei College, Peking University.
 
 - 🕙 PKU Undergraduate 2025-2029
 - 🌱 Currently learning AI
 - 🤔 Willing to know about anything cool and fantastic!
 
-Contact me via: shuangbenchen25@gmail.com
+More info at [https://shuangbenchen25.github.io]
 
 <!--
 **shuangbenchen25/shuangbenchen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
