@@ -6,7 +6,7 @@
 - 🌱 Currently learning AI
 - 🤔 Willing to know about anything cool and fantastic!
 
-More info at [Shuangben Chen](shuangbenchen.com)
+More info at [Shuangben Chen](https://www.shuangbenchen.com)
 
 <!--
 **shuangbenchen25/shuangbenchen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
